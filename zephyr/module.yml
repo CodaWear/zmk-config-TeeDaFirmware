@@ -1,4 +1,4 @@
 build:
-  kconfig: Kconfig
+  kconfig: Kconfig.defconfig
   settings:
     board_root: .
