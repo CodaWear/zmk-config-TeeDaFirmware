@@ -1,4 +1,4 @@
-#include TeeDa.dtsi
+#include "TeeDa.dtsi"
 
 &kscan0 {
     col-gpios
