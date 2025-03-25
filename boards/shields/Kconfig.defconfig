@@ -2,7 +2,7 @@ if TeeDa_LEFT
 
 # Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
-    default "My Keyboard"
+    default "TeeDa"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
