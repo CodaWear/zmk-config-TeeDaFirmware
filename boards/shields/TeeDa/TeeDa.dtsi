@@ -2,7 +2,7 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 / {
     chosen {
-        zmk,physical-layout = &physical_layout0;
+        zmk,physical-layout = &TeeDa_physical_layout;
     };
 };
 / {
