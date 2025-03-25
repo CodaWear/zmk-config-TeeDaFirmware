@@ -1,10 +1,6 @@
-#include "TeeDa-layouts.dtsi"
+
 #include <dt-bindings/zmk/matrix_transform.h>
-/ {
-    chosen {
-        zmk,physical-layout = &TeeDa_physical_layout;
-    };
-};
+
 / {
     kscan0: kscan0 {
         compatible = "zmk,kscan-gpio-matrix";
