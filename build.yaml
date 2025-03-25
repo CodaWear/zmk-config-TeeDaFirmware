@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    shield: Kconfig
   - board: nice_nano_v2
-    shield: corne_right
+    shield: Kconfig
