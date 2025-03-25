@@ -1,4 +1,3 @@
 build:
   settings:
     boards_root: .
-    shields_root: ./boards
