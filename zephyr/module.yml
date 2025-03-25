@@ -1,4 +1,3 @@
 build:
-  kconfig: ./boards/shields/TeeDa
   settings:
     board_root: .
