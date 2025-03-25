@@ -1,4 +1,4 @@
 build:
-  kconfig: ./boards
+  kconfig: ./boards/TeeDa
   settings:
     board_root: .
