@@ -1,7 +1,7 @@
 # No whitespace after the comma or in your part name!
-config TeeDa_LEFT
+config SHIELD_TEEDA_LEFT
     def_bool $(shields_list_contains,TeeDa_left)
 
 # No whitespace after the comma or in your part name!
-config TeeDa_RIGHT
+config SHIELD_TEEDA_RIGHT
     def_bool $(shields_list_contains,TeeDa_right)
