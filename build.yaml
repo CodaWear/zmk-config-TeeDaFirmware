@@ -20,6 +20,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: TeeDa
+    shield: TeeDa_left
+  - board: nice_nano_v2
+    shield: TeeDa_right
   - board: nice_nano_v2
     shield: settings_reset
