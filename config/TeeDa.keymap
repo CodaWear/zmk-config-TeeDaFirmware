@@ -15,7 +15,7 @@
         layer1_combo {
             timeout-ms = <30>;
             key-positions = <0 50>; // 1 + F24
-            bindings = <&kp A;
+            bindings = <&kp A>;
         };
         layer2_combo {
             timeout-ms = <30>;
