@@ -109,7 +109,7 @@ combos {
         layer1_combo {
             timeout-ms = <30>;
             key-positions = <0 50>; // 1 + F24
-            bindings = <&to 0>;
+            bindings = <&to 0, &kp A;
         };
         layer2_combo {
             timeout-ms = <30>;
