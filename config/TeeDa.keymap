@@ -14,37 +14,30 @@
     timeout-ms = <30>;
 
     layer1_combo {
-        key-positions = <0 50>; /* 1 + F24 */
-        bindings = <&bt BT_SEL 1>;
-        layers = <0 1 2 3 4 5>; 
+        key-positions = <1 51>; /* 1 + F24 */
+        bindings = <&to 0>;
     };
     layer2_combo {
-        key-positions = <1 50>; /* 2 + F24 */
-        bindings = <&bt BT_SEL 2>;
-        layers = <0 1 2 3 4 5>;
+        key-positions = <2 51>; /* 2 + F24 */
+        bindings = <&to 1>;
     };
     layer3_combo {
-        key-positions = <2 50>; /* 3 + F24 */
-        bindings = <&bt BT_SEL 3>;
-        layers = <0 1 2 3 4 5>;
+        key-positions = <3 51>; /* 3 + F24 */
+        bindings = <&to 2>;
     };
     layer4_combo {
-        key-positions = <3 50>; /* 4 + F24 */
+        key-positions = <4 51>; /* 4 + F24 */
         bindings = <&to 3>;
-        layers = <0 1 2 3 4 5>;
     };
     layer5_combo {
-        key-positions = <4 50>; /* 5 + F24 */
+        key-positions = <5 51>; /* 5 + F24 */
         bindings = <&to 4>;
-        layers = <0 1 2 3 4 5>;
     };
     layer6_combo {
-        key-positions = <5 50>; /* 6 + F24 */
+        key-positions = <6 51>; /* 6 + F24 */
         bindings = <&to 5>;
-        layers = <0 1 2 3 4 5>;
     };
 };
-
 
         keymap {
                 compatible = "zmk,keymap";
